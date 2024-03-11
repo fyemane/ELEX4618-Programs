@@ -1,5 +1,5 @@
-# ELEX 4618
-
+# ELEX 4618 Programs
+ 
 A collection of programs using the TM4C123G LaunchPad™ Evaluation Kit and the Educational BoosterPack MKII.
 
 ## Gallery
