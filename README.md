@@ -2,7 +2,7 @@
 
 A collection of programs using the TM4C123G LaunchPad™ Evaluation Kit and the Educational BoosterPack MKII.
 
-#Gallery
+## Gallery
 
 ![image](https://github.com/fyemane/ELEX4618-Programs/assets/93152842/a3b9f654-9cf8-4e03-83e1-b31546f30bce)
 
