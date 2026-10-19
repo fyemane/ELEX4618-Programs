@@ -1,5 +1,8 @@
 # ELEX 4618 Programs
 
+[Project portfolio](https://fyemane.github.io/projects.html) · [About me, experience & qualifications](https://fyemane.github.io/)
+
+
 My object-oriented C++ projects for ELEX 4618 at BCIT. I built these applications in Windows with Visual Studio, using OpenCV for graphics and image processing and a TI TM4C123G LaunchPad with the Educational BoosterPack MKII for physical input and output.
 
 The projects progress from embedded I/O and a drawing application to Pong, my asteroid game **C Plus Destroy**, and camera/networking experiments. I later ported applications to Linux on Raspberry Pi 4B. I keep that work, including my Pi-based colour ball sorter, in [ELEX4618-RaspberryPi](https://github.com/fyemane/ELEX4618-RaspberryPi).
